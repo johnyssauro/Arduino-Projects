@@ -7,6 +7,6 @@
 
 <img
   src="./Img/arduino2.jpg"
-  alt="Alt text"
-  title="Optional title"
+  alt="Arduino Uno"
+  title="Arduino Uno"
   style="display: block; margin-left: auto; margin-right: auto; width: 60%; ">
