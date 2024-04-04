@@ -9,4 +9,4 @@
   src="./Img/arduino2.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: auto auto; width: 60%; ">
+  style="display: block; margin-left: auto; margin-right: auto; width: 60%; ">
